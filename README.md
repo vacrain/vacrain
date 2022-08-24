@@ -5,6 +5,7 @@
 
 <p align="center">
   <samp>
+    <a href="https://discord.gg/wG7wGcgh6K">discord</a> ∙
     <a href="">homepage</a> ∙
     <a href="">blog</a> ∙
     <a href="https://github.com/vacrain">github</a> ∙ 
