@@ -1,6 +1,6 @@
 
 
-<h3 align="center"> 平喜寂雨 / Vacrain </h3>
+<h3 align="center"> Vacrain / 平喜寂雨 </h3>
 
 
 <p align="center">
